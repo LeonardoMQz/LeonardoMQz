@@ -3,7 +3,7 @@
 Meu nome é Leonardo e aqui está um pouco sobre mim:
 
 - 🌱 Atualmente estou aprendendo e desenvolvendo em várias linguagens, incluindo Python, GML, CSS, HTML, JS.
-- 🔭 Estou trabalhando com Desenvolvimento Web.
+- 🔭 Estou atualmente trabalhando com Desenvolvimento Web.
 - 📫 Como chegar até mim: leonardomqueiroz2018@gmail.com.
 
 ## Meus Status no GitHub

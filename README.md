@@ -1,26 +1,15 @@
-# Bem-vindo ao Meu Perfil do GitHub 👋
+# Olá! 👋
 
-Olá! Eu sou Leonardo, um desenvolvedor apaixonado por Desenvolvimento de Games, com experiência em GameMaker. Bem-vindo ao meu cantinho no GitHub, onde planejo compartilhar meus projetos mais interessantes e explorando novas tecnologias.
+Meu nome é Leonardo e aqui está um pouco sobre mim:
 
-## Sobre Mim
+- 🌱 Atualmente estou aprendendo e desenvolvendo em várias linguagens, incluindo Python, GML, CSS, HTML, JS.
+- 🔭 Estou atualmente estudando Desenvolvimento Web.
+- 📫 Como chegar até mim: leonardomqueiroz2018@gmail.com.
 
-- 🌱 Atualmente estou aprendendo Desenvolvimento Web.
-- 👯 Estou procurando colaborar em projetos relacionados a Games.
-- 📫 Como me encontrar: leonardomqueiroz2018@gmail.com.
+## Meus Status no GitHub
 
-## Projetos Destacados
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LeonardoMQz&show_icons=true)
 
-Aqui estão alguns projetos em que estou trabalhando ou dos quais me orgulho:
+## Linguagens
 
-Em Breve
-
-## Habilidades
-
-- Linguagens de Programação: Python, GML.
-- Ferramentas e Tecnologias: VScode, GameMaker Studio, Notion, Figma, DevTools, CSS, HTML.
-
-## Estatísticas do GitHub
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LeonardoMQz&show_icons=true&theme=dark)](https://github.com/LeonardoMQz)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMQz&layout=compact)](https://github.com/LeonardoMQz)

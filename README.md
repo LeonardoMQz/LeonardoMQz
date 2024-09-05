@@ -6,7 +6,7 @@ Meu nome é Leonardo e aqui está um pouco sobre mim:
 
 - 🔭 Busco me proficionalizar em Desenvolvimento Web, onde me encontrei super apaixonado em aprender cada vez mais sobre essa área da Computação.
 
-- 🏆 Espero que num futuro próximo me encontre fazendo parte de uma grande equipe que desenvolvem projetos incriveis.
+- 🏆 Espero que em um futuro próximo me encontre fazendo parte de uma grande equipe que desenvolvem projetos incriveis.
 
 
 ## 📫 Como chegar até mim:

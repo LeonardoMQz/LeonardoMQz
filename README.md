@@ -2,7 +2,7 @@
 
 Meu nome é Leonardo e aqui está um pouco sobre mim:
 
-- 🌱 Atualmente estou na Faculdade de Ciências da Computação, faço também Tecnico de Mecânica Industrial, e nas horas vagas estudo Desenvolvimento Web com Cursos Online como a [DIO.me](https://web.dio.me/users/leonardomqueiroz2018?tab=achievements), o que me proporcionou algumas de minhas abilidades, como Python e C.
+- 🌱 Atualmente estou na Faculdade de Ciências da Computação, e nas horas vagas estudo Desenvolvimento Web com Cursos Online, o que me proporcionou algumas de minhas abilidades, como Python e C#.
 
 - 🔭 Busco me proficionalizar em Desenvolvimento Web, onde me encontrei super apaixonado em aprender cada vez mais sobre essa área da Computação.
 
